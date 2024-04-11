@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-03-29T14:51:58.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PYeYrNPHfX4HRJ-kZVok" version="24.0.5" type="device">
+  <diagram name="Page-1" id="MRcGpEojda81QBscHzOD">
+    <mxGraphModel dx="1238" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="svKmYCp-425OCLprlQ16-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-1" target="svKmYCp-425OCLprlQ16-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-2" target="svKmYCp-425OCLprlQ16-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-2" value="Membuka QGIS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="107" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-3" target="svKmYCp-425OCLprlQ16-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-3" value="Pengolahan Data Spasial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="353" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-4" target="svKmYCp-425OCLprlQ16-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-4" value="Input Data&amp;nbsp;&lt;div&gt;Spasial&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="353" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-8" target="svKmYCp-425OCLprlQ16-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-8" value="Export html&lt;div&gt;Data Spasial&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-10" target="svKmYCp-425OCLprlQ16-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-10" value="Mmbuka VSCode" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-11" target="svKmYCp-425OCLprlQ16-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-11" value="Downloading boostrap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="353" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-14" target="svKmYCp-425OCLprlQ16-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-14" value="Menguhubungkan dengan html spasial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-16" target="svKmYCp-425OCLprlQ16-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-16" value="Merapikan script" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svKmYCp-425OCLprlQ16-18" target="svKmYCp-425OCLprlQ16-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-18" value="Membuat Laporan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="353" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svKmYCp-425OCLprlQ16-20" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="700" width="87" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
